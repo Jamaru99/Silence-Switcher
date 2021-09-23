@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="marginTop">90dp</dimen>
+    <dimen name="marginBottom">60dp</dimen>
+    <dimen name="imgLayoutX">258dp</dimen>
+    <dimen name="imgLayoutY">4dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="lblInformSize">20sp</dimen>
+</resources>
